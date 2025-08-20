@@ -1,0 +1,6 @@
+.env
+rag-n8n-454003-b80e9a6d04a8.json
+app/__pycache__/
+app/services/__pycache__/
+app/utils/__pycache__/
+temp/
